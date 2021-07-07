@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Juan Pablo
 
-## I'm a Full Stack Developer from Argentina
+## I'm a Full Stack Developer from Argentina with strong problem-solving skills as well as robust soft skills given my creative and teaching background.
 
 
 ### I'm currently working on a marketplace project using TypeScript, React, Redux, Bootstrap, Node, Express, PostgreSQL and Sequelize. 
