@@ -3,7 +3,26 @@
 ## I'm a Full Stack Developer from Argentina.
 
 
-### I have just finished working on a marketplace project using TypeScript, React, Redux, Bootstrap, Node, Express, PostgreSQL and Sequelize. 
+Some of my projects:
+
+## TiendApp - MarketPlace
+
+MarketPlace built using PERN stack + TypeScript
+
+
+[Client repository](https://github.com/Henry-Cohorte-12-Grupo-1/Client-TiendaPP)
+
+[Api repository](https://github.com/Henry-Cohorte-12-Grupo-1/Api-TiendaPP)
+
+## Calculator
+
+Calculator made with react styled components, tone.js for the sounds, react-use-keypress for key binding and react-tsparticles for the background.
+
+
+[Demo](https://jupaolivera.github.io/Calculator-React-Sounds/)
+[Repository](https://github.com/Jupaolivera/Calculator-React-Sounds)
+
+
 
 
 
