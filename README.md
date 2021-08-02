@@ -20,6 +20,7 @@ Calculator made with react styled components, tone.js for the sounds, react-use-
 
 
 [Demo](https://jupaolivera.github.io/Calculator-React-Sounds/)
+
 [Repository](https://github.com/Jupaolivera/Calculator-React-Sounds)
 
 
