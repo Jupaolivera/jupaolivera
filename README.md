@@ -23,6 +23,15 @@ Calculator made with react styled components, tone.js for the sounds, react-use-
 
 [Repository](https://github.com/Jupaolivera/Calculator-React-Sounds)
 
+## React Weather App
+
+React Weather App made with React, Semantic UI, Open Weather API and react-live-clock.
+
+
+[Demo](https://jupaolivera.github.io/Weather-App-React/)
+
+[Repository](https://github.com/Jupaolivera/Weather-App-React)
+
 
 
 
