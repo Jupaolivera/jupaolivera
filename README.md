@@ -26,26 +26,23 @@ React weather app made with react, semantic ui, open weather api, moment.js and 
 
 [Repository](https://github.com/Jupaolivera/Weather-App-React)
 
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-   <p>
-      <a href="https://www.linkedin.com/in/juan-pablo-olivera/">
-         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Juan Pablo Olivera LinkedIn Profile" height="40" width="40">
-      </a>   
-      <a align='right' href="mailto:juanpablooliv94@gmail.com">
-         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"/>
-      </a>  
-   </p>
-   <p><label>juanpablooliv94@gmail.com</label></p>
+<p>
+   <a href="https://www.linkedin.com/in/juan-pablo-olivera/">
+      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Juan Pablo Olivera LinkedIn Profile" height="40" width="40">
+   </a>   
+   <a align='right' href="mailto:juanpablooliv94@gmail.com">
+      <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"/>
+   </a>  
+</p>
+<p><label>juanpablooliv94@gmail.com</label></p>
