@@ -30,6 +30,16 @@ React weather app made with react, semantic ui, open weather api, moment.js and 
 
 
 
+
+
+
+
+
+
+
+
+
+
    <p>
       <a href="https://www.linkedin.com/in/juan-pablo-olivera/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Juan Pablo Olivera LinkedIn Profile" height="40" width="40">
