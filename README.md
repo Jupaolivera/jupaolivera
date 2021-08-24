@@ -32,10 +32,6 @@ React weather app made with react, semantic ui, open weather api, moment.js and 
 <br><br/>
 <br><br/>
 <br><br/>
-<br><br/>
-<br><br/>
-<br><br/>
-<br><br/>
 
 <p>
    <a href="https://www.linkedin.com/in/juan-pablo-olivera/">
@@ -45,4 +41,3 @@ React weather app made with react, semantic ui, open weather api, moment.js and 
       <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"/>
    </a>  
 </p>
-<p><label>juanpablooliv94@gmail.com</label></p>
