@@ -29,9 +29,7 @@ React weather app made with react, semantic ui, open weather api, moment.js and 
 <br><br/>
 <br><br/>
 <br><br/>
-<br><br/>
-<br><br/>
-<br><br/>
+
 
 <p>
    <a href="https://www.linkedin.com/in/juan-pablo-olivera/">
