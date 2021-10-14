@@ -8,6 +8,14 @@ MarketPlace built using PERN stack + TypeScript
 
 [Api repository](https://github.com/Henry-Cohorte-12-Grupo-1/Api-TiendaPP)
 
+## Synth
+
+Tone.js synth
+
+[Demo](https://jupaolivera.github.io/BasicSynth/)
+
+[Repository](https://github.com/Jupaolivera/BasicSynth)
+
 ## Calculator
 
 Calculator made with react styled components, tone.js for the sounds, react-use-keypress for key binding and react-tsparticles for the background.
